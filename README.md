@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Talha
 
 
-H![](https://komarev.com/ghpvc/?username=talhagg&style=flat-square)
+[](https://komarev.com/ghpvc/?username=talhagg&style=flat-square)
 
 - 🔭 I’m currently working on SwiftUI and UIKit
 - 🌱 I’m currently learning Swift
