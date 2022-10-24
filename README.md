@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Talha
+<h1 align="center">Hi there 👋 I'm Talha</h1>
 
 
 ![](https://komarev.com/ghpvc/?username=talhagg&style=flat-square)
