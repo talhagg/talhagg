@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on SwiftUI and UIKit
 - 🌱 I’m currently learning Swift
+- 📝 I regularly write articles on [talhagg.dev](https://talhagg.dev)
 - 📫 How to reach me **tgolcugezli@gmail.com** or [Twitter](https://twitter.com/mrtalhagg)
 
 [![](https://img.shields.io/twitter/follow/mrtalhagg?style=social)](https://www.twitter.com/mrtalhagg)
