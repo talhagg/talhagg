@@ -3,8 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=talhagg&style=flat-square)
 
-- 🔭 I’m currently working on SwiftUI and UIKit
-- 🌱 I’m currently learning Swift
+- 🔭 I’m currently working on [**Swift**](https://github.com/talhagg/100DaysOfSwift) 
 - 📝 I regularly write articles on [talhagg.dev](https://talhagg.dev)
 - 📫 How to reach me **tgolcugezli@gmail.com** or [Twitter](https://twitter.com/mrtalhagg)
 
