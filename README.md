@@ -9,12 +9,6 @@
 
 [![](https://img.shields.io/twitter/follow/mrtalhagg?style=social)](https://www.twitter.com/mrtalhagg)
 
-## Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/talhagg" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cengizcmataraci" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/16009017/talhagg" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
-</p>
 
 ## Technologies
 <p align="left"> 
